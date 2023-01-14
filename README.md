@@ -17,10 +17,11 @@ To write a program to find the GCD of two numbers using function.
 
 Program to find the gcd of two number using function.
 
-```py
 Developed by: SRINITHI V
+
 RegisterNumber: 22006082
 
+```py
 def gcd():
     n1,n2=int(input()),int(input())
     if n1<n2:
